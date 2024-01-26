@@ -31,7 +31,7 @@ npm run dev
 
 ## Despliegue 📦
 
-_[Deploy en Netlify](https://m3-tp1-p3.netlify.app/)_
+_[Deploy en Netlify](https://m3-tp1-p03.netlify.app/)_
 
 ## Autor ✒️
 
